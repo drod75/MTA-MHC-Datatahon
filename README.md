@@ -53,6 +53,7 @@ A video to how the site works, and every feature that is stable and available so
 [![Python][Python]][Python-url]
 [![Matplotlib][Matplotlib]][Matplotlib-url]
 [![Seaborn][Seaborn]][Seaborn-url]
+[![Folium][Folium]][Folium-url]
 
 ## Contributing
 We like open-source and want to develop practical applications for real-world problems. However, individual strength is limited. So, any kinds of contribution is welcome, such as:
@@ -85,6 +86,9 @@ See [LICENSE](LICENSE) for more information.
 
 [Seaborn]: https://img.shields.io/badge/seaborn-4A73B8?style=for-the-badge&logo=seaborn&logoColor=white
 [Seaborn-url]: https://seaborn.pydata.org/
+
+[Folium]: https://img.shields.io/badge/folium-4A73B8?style=for-the-badge&logo=python&logoColor=white
+[Folium-url]: https://python-visualization.github.io/folium/
 
 [NYC Open Data]: https://img.shields.io/badge/NYC_Open_Data-008000?style=for-the-badge&logo=nyc&logoColor=white
 [NYC Open Data-url]: https://opendata.cityofnewyork.us/
