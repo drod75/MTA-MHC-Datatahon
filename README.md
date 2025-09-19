@@ -54,6 +54,7 @@ A video to how the site works, and every feature that is stable and available so
 [![Matplotlib][Matplotlib]][Matplotlib-url]
 [![Seaborn][Seaborn]][Seaborn-url]
 [![Folium][Folium]][Folium-url]
+[![GeoPandas][GeoPandas]][GeoPandas-url]
 
 ## Contributing
 We like open-source and want to develop practical applications for real-world problems. However, individual strength is limited. So, any kinds of contribution is welcome, such as:
@@ -89,6 +90,9 @@ See [LICENSE](LICENSE) for more information.
 
 [Folium]: https://img.shields.io/badge/folium-4A73B8?style=for-the-badge&logo=python&logoColor=white
 [Folium-url]: https://python-visualization.github.io/folium/
+
+[GeoPandas]: https://img.shields.io/badge/GeoPandas-4A73B8?style=for-the-badge&logo=python&logoColor=white
+[GeoPandas-url]: https://geopandas.org/
 
 [NYC Open Data]: https://img.shields.io/badge/NYC_Open_Data-008000?style=for-the-badge&logo=nyc&logoColor=white
 [NYC Open Data-url]: https://opendata.cityofnewyork.us/
