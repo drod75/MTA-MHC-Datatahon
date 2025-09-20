@@ -16,7 +16,13 @@
     </li>
     <li><a href="#patterns-and-trends">Patterns and Trends</a></li>
     <li><a href="#demo">Demo</a></li>
-    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#techincal-details">Technical Details</a>
+        <ul>
+            <li><a href="#built-with">Built With</a></li>
+            <li><a href="#data-sources">Data Sources</a></li>
+            <li><a href="#usage">Usage</a></li>
+        </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
 </ol>
@@ -49,12 +55,41 @@ A video to how the site works, and every feature that is stable and available so
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
-## Built With
+## Techincal Details
+
+### Built With
 [![Python][Python]][Python-url]
+[![Jupyter][Jupyter]][Jupyter-url]
 [![Matplotlib][Matplotlib]][Matplotlib-url]
 [![Seaborn][Seaborn]][Seaborn-url]
 [![Folium][Folium]][Folium-url]
 [![GeoPandas][GeoPandas]][GeoPandas-url]
+
+### Data Sources
+- [MTA Bus Automated Camera Enforcement Violations](https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforcement-Violations-Be/kh8p-hcbm/about_data)
+
+
+### Usage
+To use the python notebooks and files in this repository, follow the steps below:
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/drod75/MTA-MHC-Datatahon.git
+    ```
+2. Install the required packages
+
+    a. If using pip, run:
+    ```sh
+    pip install -r requirements.txt
+    ```
+    b. If using UV, run:
+    ```sh
+    uv venv
+    ```
+    ```sh
+    uv sync
+    ```
+
 
 ## Contributing
 We like open-source and want to develop practical applications for real-world problems. However, individual strength is limited. So, any kinds of contribution is welcome, such as:
@@ -93,6 +128,9 @@ See [LICENSE](LICENSE) for more information.
 
 [GeoPandas]: https://img.shields.io/badge/GeoPandas-4A73B8?style=for-the-badge&logo=python&logoColor=white
 [GeoPandas-url]: https://geopandas.org/
+
+[Jupyter]: https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+[Jupyter-url]: https://jupyter.org/
 
 [NYC Open Data]: https://img.shields.io/badge/NYC_Open_Data-008000?style=for-the-badge&logo=nyc&logoColor=white
 [NYC Open Data-url]: https://opendata.cityofnewyork.us/
