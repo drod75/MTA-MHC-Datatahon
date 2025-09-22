@@ -14,7 +14,15 @@
             <li><a href="#contact-information">Contact Information</a></li>
         </ul>
     </li>
-    <li><a href="#patterns-and-trends">Patterns and Trends</a></li>
+    <li><a href="#analysis">Analysis</a>
+        <ul>
+            <li><a href="#background">Background</a></li>
+            <li><a href="#ace-route-analysis">Ace Route Analysis</a></li>
+            <li><a href="#ridership-analysis">Ridership Analysis</a></li>
+            <li><a href="#transit-deserts">Transit Deserts</a></li>
+            <li href="#conclusions"><a></a></li>
+        </ul>
+    </li>
     <li><a href="#demo">Demo</a></li>
     <li><a href="#techincal-details">Technical Details</a>
         <ul>
@@ -29,6 +37,7 @@
 </details>
 
 ## Introduction
+----
 TBD
 
 And special thanks to [NYC Open Data][NYC Open Data-url] for providing the datasets we used in this datathon! 
@@ -46,16 +55,33 @@ Our team members and their contact information are listed below:
 
     <a href="https://github.com/anna-hsh" target="_blank"><img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /></a><a href="mailto:annaclhsieh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" /></a>
  
-## Patterns and Trends
-TBD
+## Analysis
+----
+### Background
+tbd
+
+### Ace Route Analysis
+tbd
+
+### Ridership Analysis
+tbd
+
+### Transit Deserts
+tbd
+
+### Conclusions
+tbd
 
 ## Demo
+----
 A video to how the site works, and every feature that is stable and available so far is listed below!
 [Demo Link](public/demo.mp4)
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## Techincal Details
+----
+These are the technical details for the repository, such as libraries and datasets that we used!
 
 ### Built With
 [![Python][Python]][Python-url]
@@ -67,6 +93,8 @@ A video to how the site works, and every feature that is stable and available so
 
 ### Data Sources
 - [MTA Bus Automated Camera Enforcement Violations](https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforcement-Violations-Be/kh8p-hcbm/about_data)
+- [MTA Bus Automated Camera Enforced Routes: Beginning October 2019](https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforced-Routes-Beginning/ki2b-sg5y/about_data) 
+- [MTA Bus Hourly Ridership: Beginning 2025](https://data.ny.gov/Transportation/MTA-Bus-Hourly-Ridership-Beginning-2025/gxb3-akrn/about_data)
 
 
 ### Usage
@@ -92,6 +120,7 @@ To use the python notebooks and files in this repository, follow the steps below
 
 
 ## Contributing
+----
 We like open-source and want to develop practical applications for real-world problems. However, individual strength is limited. So, any kinds of contribution is welcome, such as:
 - New features
 - Bug fixes
@@ -112,7 +141,8 @@ We like open-source and want to develop practical applications for real-world pr
 
 
 ## License
-See [LICENSE](LICENSE) for more information.
+----
+See [LICENSE](https://github.com/drod75/MTA-MHC-Datatahon/blob/main/LICENSE) for more information.
 
 [Python]: https://img.shields.io/badge/python-FFDE57?style=for-the-badge&logo=python&logoColor=4584B6
 [Python-url]: https://www.python.org/
