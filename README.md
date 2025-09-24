@@ -61,7 +61,7 @@ Our team members and their contact information are listed below:
 tbd
 
 ### Ace Route Analysis
-tbd
+In general, it is expected that longer routes with a higher rate of usage report a higher number of violations, examples including the M15+, which ranked first in both ridership and violations, and the M101 route, which ranked fourth in ridership and third in violations. However, there are notable outliers, like the B46+ (sixteenth in ridership yet sixth in ridership), the Bx36 (twelfth in ridership and fifth in violations), and the B82+ (twenty-fifth in ridership but twelfth in violations).
 
 ### Ridership Analysis
 tbd
