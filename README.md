@@ -60,13 +60,10 @@ Our team members and their contact information are listed below:
 ### Background
 tbd
 
-### Ace Route Analysis
+
+### ACE Ridership and Violations
 ![ace_ridership](https://github.com/drod75/MTA-MHC-Datatahon/blob/main/assets/images/ace_ridership.png)
 
-### Ridership Analysis
-tbd
-
-### Ridership and Violations
 In general, it is expected that longer routes with a higher rate of usage report a higher number of violations, examples including the M15+, which ranked first in both ridership and violations, and the M101 route, which ranked fourth in ridership and third in violations. However, there are notable outliers, like the B46+ (sixteenth in ridership yet sixth in ridership), the Bx36 (twelfth in ridership and fifth in violations), and the B82+ (twenty-fifth in ridership but twelfth in violations).
 
 ### Transit Deserts
