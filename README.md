@@ -61,7 +61,7 @@ Our team members and their contact information are listed below:
 tbd
 
 ### Ace Route Analysis
-[aceridership] 
+![ace_ridership](https://github.com/drod75/MTA-MHC-Datatahon/blob/main/assets/images/ace_ridership.png)
 
 ### Ridership Analysis
 tbd
