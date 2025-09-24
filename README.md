@@ -60,17 +60,14 @@ Our team members and their contact information are listed below:
 ### Background
 tbd
 
-
 ### ACE Ridership and Violations
 ![ace_ridership](https://github.com/drod75/MTA-MHC-Datatahon/blob/main/assets/images/ace_ridership.png)
 ![ace_violations](https://github.com/drod75/MTA-MHC-Datatahon/blob/main/assets/images/bus_violations.png)
 
 In general, it can be expected that longer routes with a higher rate of usage report a higher number of violations, examples including the M15+, which ranked first in both ridership and violations, and the M101 route, which ranked fourth in ridership and third in violations. However, there are notable outliers, like the B46+ (sixteenth in ridership yet sixth in ridership), the Bx36 (twelfth in ridership and fifth in violations), and the B82+ (twenty-fifth in ridership but twelfth in violations).
 
-### Transit Deserts
-There seems to be a pattern between the paths the routes with a significant difference between ridership rankings and violation rankings take. Using our earlier examples of the B46+, Bx36, and B82, they all run in a direction and area where there are no other public transport options (most notably the Subway). From this, we may form a relation between a lack of public transport infrastructure and the number of violations detected amongst ACE bus paths.  
-
-### 
+#### Transit Deserts
+There seems to be a pattern between the paths the routes with a significant difference between ridership rankings and violation rankings take. Using our earlier examples of the B46+, Bx36, and B82, they all run in a direction and area where there are no other public transport options (most notably the Subway). From this, we may form a relation between a lack of public transport infrastructure and the number of violations detected amongst ACE bus paths.
 
 ### Conclusions
 tbd
